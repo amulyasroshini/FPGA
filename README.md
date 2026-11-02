@@ -1,6 +1,6 @@
 FPGA Half Adder implementation.
 
-// Vivado Xilinx
+Application used: Vivado Xilinx
 
 Overview
 A Half Adder is a combinational logic circuit that performs the addition of two single-bit binary numbers. It has two inputs (A and B) and produces two outputs:
